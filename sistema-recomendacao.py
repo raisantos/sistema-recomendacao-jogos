@@ -1,5 +1,6 @@
 import math
 #users' matrix
+#inserir aqui a matriz de jogos com as respectivas horas que o usuário passou jogando determinado jogo
 users = {"Angelica": {"Blues Traveler": 3.5, "Broken Bells": 2.0, "Narah Jones": 4.5, "Phoenix": 5.0, "Slight Stoopid": 1.5, "The Strokes": 2.5, "Vampire Weekend": 2.0},
         "Bill": {"Blues Traveler": 2.0, "Broken Bells": 3.5, "Deadmau5": 4.0, "Phoenix": 2.0, "Slight Stoopid": 3.5, "Vampire Weekend": 3.0},
         "Chan": {"Blues Traveler": 5.0, "Broken Bells": 1.0, "Deadmau5": 1.0, "Narah Jones": 3.0, "Phoenix": 5.0, "Slight Stoopid": 1.0},
